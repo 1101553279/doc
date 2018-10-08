@@ -1,0 +1,64 @@
+1. 如何吸收熟悉新事物，速度很快
+
+2. 如果说明白，解释的清你认为你了解的东西
+
+
+不管是了解新事物，还是你给别人说你认为你了解的东西，都是一种知识内化的过程
+
+
+如果写好需求文档
+如何学习新东西
+如何阅读一本书
+写代码之前需要怎样的思考，规划，这都是值得思考的问题
+
+basic class:
+
+1>. electronic 		-> 电路基础/ 模电/ 数电
+2>. computer 		-> 计算机组成部分
+3>. program 		-> 计算机科学导论
+4>. network 		-> tcp/ip
+5>. arm 		-> arm architeture
+6>. math 		-> 线性代数/微积分/离散数学/具体数学
+7>. english 		-> 语法/单词/听力
+8>. linux 		-> shell script
+9>. psychology 		-> 反本能
+10>. study method 	-> study less, learn more. how to read a book
+
+
+
+
+program architetures:
+
+
+	|	product		|
+	
+		  |
+		  V
+	|	requirements	|
+		  
+		  |
+		  V
+	|	modules		|
+
+		  |
+		  V
+	|	drivers		|
+		  
+		  |
+		  V
+	|	functions	|
+		  
+		  |
+		  V
+	| 	hardware/data structures/algorithems/program languages		|
+
+
+
+how to handle main point
+	1>. what is the main point, basic functions
+	2>. what is the basic components, what each modules presents in 
+	3>. links/relations between the basic component. interactive what
+	4>. special conditions
+
+
+
